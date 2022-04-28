@@ -3,9 +3,9 @@
 ///functions///
 const prompt = require('prompt-sync')();
 
-const universal = require('./../universal-functions.js');
+const universal = require('../../modules/universal-functions.js');
 
-const classes = require ('./../classes.js');
+const classes = require ('./classes.js');
 const tileClass = classes.tileClass
 const tileType = classes.tileType
 
